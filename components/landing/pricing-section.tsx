@@ -7,7 +7,7 @@ import { Check } from "lucide-react"
 const pricingPlans = [
   {
     name: "Bài tập đơn lẻ",
-    price: "100.000₫",
+    price: "50.000₫",
     description: "Giải bài tập lab, function nhỏ, debug bug lẻ.",
     features: [
       "Bài tập cơ bản / Fix lỗi",
