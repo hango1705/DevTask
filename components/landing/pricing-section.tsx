@@ -34,8 +34,8 @@ const pricingPlans = [
   },
   {
     name: "Đồ án tốt nghiệp",
-    price: "3.500.000₫",
-    description: "Hệ thống quy mô lớn, kỹ năng Senior, báo cáo A-Z.",
+    price: "2.000.000₫",
+    description: "Hệ thống quy mô lớn, phức tạp, báo cáo + slide A-Z, hỗ trợ bảo vệ.",
     features: [
       "Microservices / Kiến trúc khó",
       "Deadline 1-2 tháng",
